@@ -1,5 +1,8 @@
 # 深度推荐系统与CTR预估工业界相关论文、业界分享
 动态更新推荐、广告工业界经典以及最前沿的论文、业界分享集合。所有资料均整理来自于互联网，如有侵权，请联系小助手deepdeliver。同时欢迎对推荐、广告方面工业界感兴趣的小伙伴加群交流：
+
+链接：[推荐系统发展与2019年论文回顾](https://mp.weixin.qq.com/s?__biz=MzU2ODA0NTUyOQ==&mid=2247484357&idx=2&sn=b7b1c54cef209389093b6e10ae0b5f8d&chksm=fc92b973cbe530658ade6d7a021647a7abcf97701025be92631594bada0e399598f8580e39b4&mpshare=1&scene=1&srcid=0102VMUgDwSbDlJdmyoXIhej&sharer_sharetime=1577933476486&sharer_shareid=ac819fdce1d6211f151960290fe7d4fb#rd)
+
 <div align=left>
 <img width="200" src="deepdeliver_group.png" alt="交流群"/>
 </div>
